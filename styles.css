@@ -1,4 +1,4 @@
-body {
+/* body {
     color: red;
 }
 
@@ -12,4 +12,10 @@ h1 {
 
 .para {
     color: chartreuse;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
 }
