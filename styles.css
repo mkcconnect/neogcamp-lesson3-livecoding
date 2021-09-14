@@ -27,6 +27,8 @@ body {
     margin: 0px;
 }
 
+/**spaces**/
+
 hr {
     margin: 2rem 0rem;
 }
@@ -97,8 +99,10 @@ hr {
 }
 
 /**header**/
+
 .hero {
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .hero-img {
@@ -142,6 +146,11 @@ footer {
 
 .footer .link {
     color: white;
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
 }
 
 .footer .ul {
