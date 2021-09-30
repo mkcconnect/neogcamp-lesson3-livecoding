@@ -32,6 +32,10 @@ hr {
 }
 
 /**links**/
+a { 
+    color: inherit; 
+} 
+
 .link {
     text-decoration: none;
     padding: 0.5rem 1rem;
