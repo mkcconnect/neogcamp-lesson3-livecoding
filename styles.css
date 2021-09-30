@@ -1,20 +1,4 @@
-/* body {
-    color: red;
-}
-
-h1 {
-    color: blue;
-}
-
-#lib-header {
-    color: blueviolet;
-}
-
-.para {
-    color: chartreuse;
-} */
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 :root {
     --primary-color: #7C3AED;
@@ -23,7 +7,7 @@ h1 {
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0px;
 }
 
